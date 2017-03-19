@@ -8,15 +8,11 @@ public class App
 {
     public static void main( String[] args )
     {
-		//String thomas= "test........";
-        //System.out.println( "Hello World!...uu66666uu" );
+		
+        //System.out.println( "Hello World!...uu66666uu.....testing" );
 
         System.out.println("A NullPointerException is a drag...");
-        //Object myObject = null;
-        /**
-         * Checker prevents this from compiling...
-         */
-//        System.out.println("myObject: " + myObject.toString());
+        
         /**
          * ... which is simply fantastic. It shows:
          *
