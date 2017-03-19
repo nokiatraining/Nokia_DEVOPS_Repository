@@ -8,10 +8,7 @@ public class App
 {
     public static void main( String[] args )
     {
-		
-        //System.out.println( "Hello World!...uu66666uu.....testing" );
-
-        System.out.println("A NullPointerException is a drag...");
+	    System.out.println("A NullPointerException is a drag...");
         
         /**
          * ... which is simply fantastic. It shows:
@@ -20,7 +17,6 @@ public class App
          * reference myObject
          *
          * http://checkerframework.org
-         */
-        System.out.println("... but thankfully, Checker has our back: http://checkerframework.org");
+         *
     }
 }
